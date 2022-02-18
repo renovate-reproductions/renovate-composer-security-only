@@ -6,7 +6,7 @@
         }
     },
     "require-dev": {
-        "ergebnis/composer-normalize": "^2.23"
+        "ergebnis/composer-normalize": "^2.20"
     },
     "require": {
         "symfony/console": "^5.2",
