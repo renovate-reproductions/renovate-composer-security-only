@@ -7,7 +7,7 @@
                 "require",
                 "require-dev"
             ],
-            "dependencyDashboardApproval": true
+            "enabled": false
         }
     ],
     "vulnerabilityAlerts": {
