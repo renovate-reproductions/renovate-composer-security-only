@@ -7,6 +7,6 @@ The following should happen
   - `ergebnis/composer-normalize:^2.20` (`^2.23.1` is available, but should not be updated)
 - require:
   - `symfony/console:^5.2` (`^5.4.3` or `^6.0.3` is available, but should not be updated)
-  - `composer/composer:^2.1.7` (`^2.2.6` is available and should be updated because of this [GHSA-frqg-7g38-6gcf](https://github.com/composer/composer/security/advisories/GHSA-frqg-7g38-6gcf))
+  - `composer/composer:2.1.7` (`2.2.6` is available and should be updated because of this [GHSA-frqg-7g38-6gcf](https://github.com/composer/composer/security/advisories/GHSA-frqg-7g38-6gcf))
   
 Running renovate on `bitbucket-server` on self-hosted does nothing anymore.
