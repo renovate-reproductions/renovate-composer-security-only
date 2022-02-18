@@ -1,0 +1,17 @@
+{
+    "extends": ["config:base"],
+    "enabledManagers": ["composer"],
+    "packageRules": [
+        {
+            "matchDepTypes": [
+                "require",
+                "require-dev"
+            ],
+            "enabled": false
+        }
+    ],
+    "vulnerabilityAlerts": {
+        "enabled": true
+    },
+    "rangeStrategy": "bump"
+}

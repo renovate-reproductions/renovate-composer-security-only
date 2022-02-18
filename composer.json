@@ -1,0 +1,15 @@
+{
+    "name": "icanhazstring/renovate-composer-security-only",
+    "config": {
+        "allow-plugins": {
+            "ergebnis/composer-normalize": true
+        }
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "^2.23"
+    },
+    "require": {
+        "symfony/console": "^5.2",
+        "composer/composer": "^2.1.7"
+    }
+}
