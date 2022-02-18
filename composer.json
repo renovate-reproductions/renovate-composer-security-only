@@ -10,6 +10,6 @@
     },
     "require": {
         "symfony/console": "^5.2",
-        "composer/composer": "^2.1.7"
+        "composer/composer": "2.1.7"
     }
 }
